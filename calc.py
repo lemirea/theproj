@@ -22,3 +22,4 @@ print 'the average is', avg, 'and sumsqdiffs is', sumsqdiffs
 print 'stddev is', stddev
 print 'sum sq diffs', sumsqdiffs #adding a comment
 print "this is Andy's change"
+print "but this was changed directly in github"
